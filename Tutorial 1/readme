@@ -1,7 +1,7 @@
 In this tutorial you are expected to do all the steps a second time using a different dataset. There are three dataset, depending on your interest:
 
-1. Seagrass Canopy height (Marine Biology)
+1. Seagrass Canopy height (canopyHeight.csv | Marine Biology)
 
-2. Trees DBH (Biology)
+2. Trees DBH (treeDBH.csv | Biology)
 
-3. Concentration fo Superoxide dismutasa (Biochemistry)
+3. Concentration fo Superoxide dismutasa (sod.csv | Biochemistry)
